@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api_React_Project.git/static/css/main.c37a19cb.css",
+    "main.js": "/Api_React_Project.git/static/js/main.e54677c4.js",
+    "index.html": "/Api_React_Project.git/index.html",
+    "main.c37a19cb.css.map": "/Api_React_Project.git/static/css/main.c37a19cb.css.map",
+    "main.e54677c4.js.map": "/Api_React_Project.git/static/js/main.e54677c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c37a19cb.css",
+    "static/js/main.e54677c4.js"
+  ]
+}
